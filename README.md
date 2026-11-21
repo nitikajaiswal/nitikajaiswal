@@ -1,60 +1,54 @@
-
 <div align="center">
 
-<img src="assets/hero.svg" alt="Nitika Jaiswal Portfolio" width="100%"/>
+# Nitika Jaiswal
 
-<br>
+### Data Science · Python · Creative Development
 
-<a href="https://github.com/nitikajaiswal">
-<img src="https://img.shields.io/badge/GITHUB-151116?style=for-the-badge&logo=github&logoColor=ffffff&color=ff8a9e"/>
-</a>
+**Learning with purpose. Building with creativity.**
 
-<img src="https://komarev.com/ghpvc/?username=nitikajaiswal&label=PROFILE%20VIEWS&color=ffad7b&style=for-the-badge"/>
+<a href="https://github.com/nitikajaiswal"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-FF819B?style=for-the-badge&logo=github&logoColor=151116" /></a>
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=nitikajaiswal&label=PROFILE%20VIEWS&color=ffad7b&style=for-the-badge" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/nitikajaiswal?style=for-the-badge&label=FOLLOWERS&color=ff839d" />
 
-<img src="https://img.shields.io/github/followers/nitikajaiswal?style=for-the-badge&label=FOLLOWERS&color=ff839d"/>
+---
 
-<br><br>
+## About Me
 
-<img src="assets/bento.svg" alt="About Me" width="100%"/>
+I'm interested in **data science, machine learning, Python applications, and beautiful web interfaces**. I enjoy transforming ideas into practical projects and learning new technologies through hands-on work.
 
-<br><br>
+**Currently exploring:** machine learning workflows, data visualization, and interactive applications.
 
-<img src="assets/stack.svg" alt="My Tech Stack" width="100%"/>
+## My Tech Stack
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,vscode&theme=dark" alt="Python, C, HTML, CSS, JavaScript, Git, GitHub, VS Code" />
 
-<br>
+**Data & apps:** Pandas · NumPy · Matplotlib · Streamlit · Scikit-learn
 
-<h2 align="center">FEATURED WORK</h2>
+## Featured Work
 
-<div align="center">
-<img src="assets/projects.svg" alt="Featured Projects" width="100%"/>
-</div>
+| Project | Description | Technologies |
+|:---|:---|:---|
+| **AutoValue — Car Price Prediction** | A machine learning app for exploring vehicle data and predicting car prices. | Python, Streamlit, scikit-learn |
+| **Forma — Fitness Tracker** | An interactive fitness and wellness app concept with health insights and recipes. | HTML, CSS, JavaScript |
+| **Creative Web Projects** | UI design experiments, quote generators, and interactive front-end projects. | HTML, CSS, JavaScript |
 
-<br>
+> Project descriptions represent work in progress. Repository links can be added once the projects are published.
 
-<h2 align="center">GITHUB ANALYTICS</h2>
+## GitHub Analytics
 
-<div align="center">
+<img width="49%" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=nitikajaiswal&show_icons=true&include_all_commits=true&bg_color=151116&title_color=FFB88D&text_color=F7E8DF&icon_color=FF819B&border_color=54323E&border_radius=12" />
+<img width="49%" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitikajaiswal&layout=compact&langs_count=8&bg_color=151116&title_color=FFB88D&text_color=F7E8DF&border_color=54323E&border_radius=12" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nitikajaiswal&show_icons=true&include_all_commits=true&bg_color=151116&title_color=FFB88D&text_color=F7E8DF&icon_color=FF819B&border_color=54323E&border_radius=12"/>
+<br />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitikajaiswal&layout=compact&langs_count=8&bg_color=151116&title_color=FFB88D&text_color=F7E8DF&border_color=54323E&border_radius=12"/>
+<img width="75%" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=nitikajaiswal&background=151116&ring=FFB88D&fire=FF819B&currStreakNum=F7E8DF&currStreakLabel=FFB88D&sideNums=F7E8DF&sideLabels=FFB88D&dates=C3A8AA&border=54323E" />
 
-<br><br>
+<br />
 
-<img width="75%" src="https://streak-stats.demolab.com/?user=nitikajaiswal&background=151116&ring=FFB88D&fire=FF819B&currStreakNum=F7E8DF&currStreakLabel=FFB88D&sideNums=F7E8DF&sideLabels=FFB88D&dates=C3A8AA&border=54323E"/>
+<img width="100%" alt="GitHub contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nitikajaiswal&bg_color=151116&color=FFB88D&line=FF819B&point=FFE0AE&area=true&area_color=FF819B&hide_border=false" />
 
-<br><br>
+---
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nitikajaiswal&bg_color=151116&color=FFB88D&line=FF819B&point=FFE0AE&area=true&area_color=FF819B&hide_border=false"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=19&duration=3200&pause=1200&color=FF9A93&center=true&vCenter=true&width=500&lines=Keep+learning.+Keep+building.;Curiosity+into+code.;Thanks+for+stopping+by."/>
+*Keep learning. Keep building. Curiosity into code.*
 
 </div>
